@@ -17,6 +17,15 @@ It all started with curiosity and has since grown into a full-blown passion.
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=LNjengaTech&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LNjengaTech&layout=compact&theme=tokyonight" height="170" />
+</p>
+
+---
+
 ## 🛠️ Technologies & Tools
 <p align="left">
   <a href="https://skillicons.dev">
