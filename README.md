@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lonnex Njenga
 
-![Typing Banner](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+🚀;Backend+Specialist+💻;Cybersecurity+Enthusiast+☁️;Problem+Solver+🔧&center=false&color=2E86C1&size=28&width=600&height=50)
+![Typing Banner](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+🚀;Backend+Specialist+💻;Cybersecurity+Enthusiast;&center=false&color=2E86C1&size=28&width=600&height=50)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Profile_Views-1152-blueviolet">
@@ -10,8 +10,9 @@
 
 ## 📖 About Me
 
-I am software developer passionate in building scalable applications using modern technologies.
-Always eager to learn and contribute to meaningful projects.
+I am software developer passionate about building scalable, secure and smooth applications using modern technologies.
+Always eager to learn, collaborate and contribute to meaningful projects.
+It all started with curiosity and has since grown into a full-blown passion.
 
 ---
 
@@ -26,33 +27,72 @@ Always eager to learn and contribute to meaningful projects.
 
 ## 💻 Technical Skills
 
-### 🚀 Backend Development
+## 💻 Technical Skills
 
-![Laravel](https://img.shields.io/badge/laravel-239120?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/nodejs-512BD4?style=for-the-badge&logo=nodejs&logoColor=white)
-![Express.js](https://img.shields.io/badge/expressjs-ED8B00?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Nextjs-6DB33F?style=for-the-badge&logo=next&logoColor=white)
+### 🎨 Frontend Development
 
-* **Express.js:** JWT Authentication, Onion Architecture, CQRS + MediatR.
-* **PHP + Laravel:** REST APIs, Microservices.
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 🖥️ Frontend Development
+* **Next.js:** Focus on SEO, UI components, and Fast Refresh.
+* **React:** Building modular, component-based UIs with a focus on reusable architecture and performance.
+* **TypeScript/JavaScript:** Writing clean, type-safe code to reduce runtime errors and improve developer experience.
+* **Tailwind CSS:** Building highly responsive, utility-first UIs with a focus on design consistency.
 
-![React](https://img.shields.io/badge/react-239120?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind css](https://img.shields.io/badge/tailwind-512BD4?style=for-the-badge&logo=tailwind&logoColor=white)
-![Next](https://img.shields.io/badge/next-ED8B00?style=for-the-badge&logo=next&logoColor=white)
 
-* **ASP.NET Core:** JWT Authentication, Onion Architecture, CQRS + MediatR.
-* **Java & Spring Boot:** REST APIs, Microservices.
+### ⚙️ Backend & Fullstack
 
-### ☁️  Cloud and DevOps
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
-![Docker](https://img.shields.io/badge/docker-239120?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-512BD4?style=for-the-badge&logo=aws&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-ED8B00?style=for-the-badge&logo=azure&logoColor=white)
+* **Next.js:** Focus on Serverless functions, API routes, and Database integration (Supabase/MongoDB).
+* **Node.js & Express:** Developing scalable, non-blocking RESTful APIs and middleware architectures.
+* **WebSockets(Socket.io):** Implementing real-time, bi-directional communication for features like live chat or instant notifications.
 
-* **ASP.NET Core:** JWT Authentication, Onion Architecture, CQRS + MediatR.
-* **Java & Spring Boot:** REST APIs, Microservices.
+
+### 🗄️ Databases & BaaS
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+
+* **PostgreSQL:** Expertise in **complex relational modeling**, ACID compliance, and advanced querying for data integrity.
+* **MySQL:** Experienced in managing **structured data**, performance optimization, and relational schema design for high-traffic apps.
+* **MongoDB:** Building scalable applications using **NoSQL/document-oriented storage** for flexible schemas and high-velocity data.
+* **Supabase:** Leveraging **BaaS (Backend as a Service)** for rapid authentication, real-time database syncing, and serverless edge functions.
+* **Pinecone:** Working with **Vector Databases** to power AI features like semantic search and long-term memory for LLMs.
+* **Cloudinary:** Handling automated **media asset management**, image optimization, and global delivery via CDN.
+
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+* **AWS:** Orchestrating cloud infrastructure, managing compute (EC2/Lambda) and storage (S3).
+* **Docker:** Implementing containerization to ensure consistent development and deployment environments.
+* **Linux:** Comfortable with CLI-based server management, shell scripting, and environment configuration.
+
+
+### 🛠️ State & Utilities
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+
+* **Zustand / Redux:** Managing global state in complex React applications with predictable data flow.
+* **Tailwind CSS:** Building highly responsive, utility-first UIs with a focus on design consistency.
+* **Axios:** Handling complex API interactions with custom interceptors for auth and error handling.
+
 
 ---
 
