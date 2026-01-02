@@ -20,7 +20,7 @@ It all started with curiosity and has since grown into a full-blown passion.
 ## 🛠️ Technologies & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,expressjs,nextjs,laravel,git,github,kubernetes,docker,aws,linux" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,expressjs,nextjs,laravel,git,github,kubernetes,docker,aws,linux,python" />
   </a>
 </p>
 
