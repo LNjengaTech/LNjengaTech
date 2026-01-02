@@ -17,15 +17,6 @@ It all started with curiosity and has since grown into a full-blown passion.
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=LNjengaTech&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LNjengaTech&layout=compact&theme=tokyonight" height="170" />
-</p>
-
----
-
 ## 🛠️ Technologies & Tools
 <p align="left">
   <a href="https://skillicons.dev">
@@ -99,6 +90,16 @@ It all started with curiosity and has since grown into a full-blown passion.
 * **Python**: - Understanding Essential Libraries - NumPy(for math), Pandas(for data tables), and Matplotlib(for charts).
 * **Practical Math** - To fully understand 'Big Three' in ML: Linear Algebra, Calculus and Statistics
   
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LNjengaTech&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=LNjengaTech&show_icons=true&theme=tokyonight" height="170" />
+</p>
+
 ---
 
 ## 📫 Connect with Me
