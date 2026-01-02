@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lonnex Njenga
 
-![Typing Banner](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+🚀;Backend+Specialist+💻;Cybersecurity+Enthusiast;&center=false&color=2E86C1&size=28&width=600&height=50)
+![Typing Banner](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+🚀;Backend+Specialist+💻;Cybersecurity+Enthusiast;Machine+Learning;&center=false&color=2E86C1&size=28&width=600&height=50)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Profile_Views-1152-blueviolet">
@@ -11,6 +11,7 @@
 ## 📖 About Me
 
 I am software developer passionate about building scalable, secure and smooth applications using modern technologies.
+My current interest includes Python and Machine Learning.
 Always eager to learn, collaborate and contribute to meaningful projects.
 It all started with curiosity and has since grown into a full-blown passion.
 
