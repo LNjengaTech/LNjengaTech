@@ -82,18 +82,12 @@ It all started with curiosity and has since grown into a full-blown passion.
 * **Docker:** Implementing containerization to ensure consistent development and deployment environments.
 * **Linux:** Comfortable with CLI-based server management, shell scripting, and environment configuration.
 
-
-### 🛠️ State & Utilities
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
-
-* **Zustand / Redux:** Managing global state in complex React applications with predictable data flow.
-* **Tailwind CSS:** Building highly responsive, utility-first UIs with a focus on design consistency.
-* **Axios:** Handling complex API interactions with custom interceptors for auth and error handling.
-
-
 ---
+
+## 📖 Currently Learning
+
+* **Python**: - Understanding Essential Libraries - NumPy(for math), Pandas(for data tables), and Matplotlib(for charts).
+* **Practical Math** - To fully understand 'Big Three' in ML: Linear Algebra, Calculus and Statistics
 
 ## 📫 Connect with Me
 
