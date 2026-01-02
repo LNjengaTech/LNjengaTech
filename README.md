@@ -18,7 +18,7 @@ Always eager to learn and contribute to meaningful projects.
 ## 🛠️ Technologies & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,expressjs,nextjs,laravel,git,github,kubernetes,docker,aws" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,expressjs,nextjs,laravel,git,github,kubernetes,docker,aws,linux" />
   </a>
 </p>
 
