@@ -97,7 +97,7 @@ It all started with curiosity and has since grown into a full-blown passion.
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=LNjengaTech&show_icons=true&theme=tokyonight" height="170" />
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LNjengaTech&layout=compact&theme=tokyonight" height="170" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LNjengaTech&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
