@@ -89,6 +89,8 @@ It all started with curiosity and has since grown into a full-blown passion.
 
 * **Python**: - Understanding Essential Libraries - NumPy(for math), Pandas(for data tables), and Matplotlib(for charts).
 * **Practical Math** - To fully understand 'Big Three' in ML: Linear Algebra, Calculus and Statistics
+  
+---
 
 ## 📫 Connect with Me
 
