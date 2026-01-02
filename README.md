@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**LNjengaTech/LNjengaTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Lonnex Njenga
 
-Here are some ideas to get you started:
+💻 **Software Developer** | 🌟 **Building scalable applications**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🔭 I’m currently working on software development projects
+- 🌱 I’m currently learning modern web technologies
+- 💬 Ask me about Next.js, PHP, Express.js, or React
+- 📫 How to reach me: [Add your contact info]
+
+## 🛠️ Tech Stack
+- **Backend**: .NET Core, Spring Boot, Node.js
+- **Frontend**: React, TypeScript, TailwindCSS
+- **Tools**: Git, Docker, AWS
+
+## 📊 GitHub Stats
+
+![LNjenga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LNjengaTech&show_icons=true&theme=default)
+
+## 📫 Connect
+- **GitHub**: [LNjengaTech](https://github.com/LNjengaTech)
+- **Update with your links**: LinkedIn, Twitter, Portfolio
+
+---
+
+*Profile created with ❤️*
