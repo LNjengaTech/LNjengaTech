@@ -1,5 +1,3 @@
-<div align="center">
-
 # 👨‍💻 **LNjenga** 
 
 ![Typing Banner](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+🚀;Backend+Specialist+💻;Cloud+Enthusiast+☁️;Problem+Solver+🔧&center=true&color=2E86C1&size=28&width=600&height=50)
