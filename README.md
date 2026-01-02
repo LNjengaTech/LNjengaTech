@@ -1,28 +1,26 @@
 # 👋 Hi, I'm Lonnex Njenga
+
 ![Typing Banner](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+🚀;Backend+Specialist+💻;Cloud+Enthusiast+☁️;Problem+Solver+🔧&center=true&color=2E86C1&size=28&width=600&height=50)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-1177-blueviolet">
-  <img src="https://img.shields.io/badge/Followers-22-blue">
-  <img src="https://img.shields.io/badge/Stars-10-yellow">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="400" />
+  <img src="https://img.shields.io/badge/Profile_Views-1152-blueviolet">
+  <img src="https://img.shields.io/badge/Followers-7-blue">
+  <img src="https://img.shields.io/badge/Stars-6-yellow">
 </p>
 ---
 
 ## 📖 About Me
 
-Passionate developer with experience in building scalable applications using modern technologies.  
+Passionate developer in building scalable applications using modern technologies.
 Always eager to learn and contribute to meaningful projects.
+I like collaborations and contribution to open-source.
 
 
 ## 🛠️ Technologies & Tools
 
-![Languages](https://skillicons.dev/icons?i=js,ts,php)
-![Frameworks](https://skillicons.dev/icons?i=expressjs,nextjs,laravel)
-![Tools](https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vscode)
+Languages: ![Languages](https://skillicons.dev/icons?i=js,ts,php)
+Frameworks: ![Frameworks](https://skillicons.dev/icons?i=expressjs,nextjs,laravel)
+Tools: ![Tools](https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vscode)
 
 
 ## 💻 Technical Skills
