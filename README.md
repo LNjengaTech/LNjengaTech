@@ -1,3 +1,17 @@
+<h1 align="center">Software Developer & Problem Solver</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile_Views-1177-blueviolet">
+  <img src="https://img.shields.io/badge/Followers-22-blue">
+  <img src="https://img.shields.io/badge/Stars-10-yellow">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="400" />
+</p>
+
+---
+
 # 👨‍💻 **LNjenga** 
 
 ![Typing Banner](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+🚀;Backend+Specialist+💻;Cloud+Enthusiast+☁️;Problem+Solver+🔧&center=true&color=2E86C1&size=28&width=600&height=50)
