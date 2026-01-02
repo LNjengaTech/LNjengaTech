@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lonnex Njenga
 
-![Typing Banner](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+🚀;Backend+Specialist+💻;Cloud+Enthusiast+☁️;Problem+Solver+🔧&center=true&color=2E86C1&size=28&width=600&height=50)
+![Typing Banner](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+🚀;Backend+Specialist+💻;Cybersecurity+Enthusiast+☁️;Problem+Solver+🔧&center=false&color=2E86C1&size=28&width=600&height=50)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Profile_Views-1152-blueviolet">
@@ -16,12 +16,15 @@ Always eager to learn and contribute to meaningful projects.
 I like collaborations and contribution to open-source.
 
 
+
 ## 🛠️ Technologies & Tools
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,php,expressjs,nextjs,laravel,git,github,kubernetes,docker,aws" />
   </a>
 </p>
+
+---
 
 ## 💻 Technical Skills
 
@@ -35,6 +38,25 @@ I like collaborations and contribution to open-source.
 * **ASP.NET Core:** JWT Authentication, Onion Architecture, CQRS + MediatR.
 * **Java & Spring Boot:** REST APIs, Microservices.
 
+### 🚀 Frontend Development
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/.NET_ASP.NET_CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+* **ASP.NET Core:** JWT Authentication, Onion Architecture, CQRS + MediatR.
+* **Java & Spring Boot:** REST APIs, Microservices.
+
+### 🚀 Cloud and DevOps
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/.NET_ASP.NET_CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+* **ASP.NET Core:** JWT Authentication, Onion Architecture, CQRS + MediatR.
+* **Java & Spring Boot:** REST APIs, Microservices.
 
 ## 📊 GitHub Stats
 
