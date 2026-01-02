@@ -17,13 +17,9 @@ I like collaborations and contribution to open-source.
 
 
 ## 🛠️ Technologies & Tools
-
-![Languages](https://skillicons.dev/icons?i=js,ts,php)
-![Frameworks](https://skillicons.dev/icons?i=expressjs,nextjs,laravel)
-![Tools](https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vscode)
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,php" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,expressjs,nextjs,laravel,git,github,kubernetes,docker,aws" />
   </a>
 </p>
 
