@@ -30,18 +30,17 @@ Always eager to learn and contribute to meaningful projects.
 
 ![Laravel](https://img.shields.io/badge/laravel-239120?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/nodejs-512BD4?style=for-the-badge&logo=nodejs&logoColor=white)
-![Express.js](https://img.shields.io/badge/expressjs-ED8B00?style=for-the-badge&logo=expressjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Nextjs-6DB33F?style=for-the-badge&logo=nextjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/expressjs-ED8B00?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Nextjs-6DB33F?style=for-the-badge&logo=next&logoColor=white)
 
-* **ASP.NET Core:** JWT Authentication, Onion Architecture, CQRS + MediatR.
-* **Java & Spring Boot:** REST APIs, Microservices.
+* **Express.js:** JWT Authentication, Onion Architecture, CQRS + MediatR.
+* **PHP + Laravel:** REST APIs, Microservices.
 
 ### 🖥️ Frontend Development
 
-![React](https://img.shields.io/badge/react-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Tailwind css](https://img.shields.io/badge/tailwind-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Next](https://img.shields.io/badge/next-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Daisy UI](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/react-239120?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind css](https://img.shields.io/badge/tailwind-512BD4?style=for-the-badge&logo=tailwind&logoColor=white)
+![Next](https://img.shields.io/badge/next-ED8B00?style=for-the-badge&logo=next&logoColor=white)
 
 * **ASP.NET Core:** JWT Authentication, Onion Architecture, CQRS + MediatR.
 * **Java & Spring Boot:** REST APIs, Microservices.
