@@ -17,6 +17,19 @@ Always eager to learn and contribute to meaningful projects.
 ![Tools](https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vscode)
 
 
+## 💻 Technical Skills
+
+### 🚀 Backend Development
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/.NET_ASP.NET_CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+* **ASP.NET Core:** JWT Authentication, Onion Architecture, CQRS + MediatR.
+* **Java & Spring Boot:** REST APIs, Microservices.
+
+
 ## 📊 GitHub Stats
 
 ![LNjenga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LNjengaTech&show_icons=true&theme=radical&hide_border=true)
