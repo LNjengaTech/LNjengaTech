@@ -9,12 +9,14 @@
 Passionate developer with experience in building scalable applications using modern technologies.  
 Always eager to learn and contribute to meaningful projects.
 
-## 🛠️ Technologies
 
 ## 🛠️ Technologies & Tools
-![Languages](https://skillicons.dev/icons?i=js,ts,python,java,cpp,rust,go)
-![Frameworks](https://skillicons.dev/icons?i=react,nodejs,vue,nextjs,django,spring)
+
+![Languages](https://skillicons.dev/icons?i=js,ts,php)
+![Frameworks](https://skillicons.dev/icons?i=expressjs,nextjs,laravel)
 ![Tools](https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,vscode)
+
+
 ## 📊 GitHub Stats
 
 ![LNjenga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LNjengaTech&show_icons=true&theme=radical&hide_border=true)
