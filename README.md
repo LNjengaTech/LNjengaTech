@@ -7,15 +7,13 @@
   <img src="https://img.shields.io/badge/Followers-7-blue">
   <img src="https://img.shields.io/badge/Stars-6-yellow">
 </p>
----
 
 ## 📖 About Me
 
-Passionate developer in building scalable applications using modern technologies.
+I am software developer passionate in building scalable applications using modern technologies.
 Always eager to learn and contribute to meaningful projects.
-I like collaborations and contribution to open-source.
 
-
+---
 
 ## 🛠️ Technologies & Tools
 <p align="left">
@@ -38,7 +36,7 @@ I like collaborations and contribution to open-source.
 * **ASP.NET Core:** JWT Authentication, Onion Architecture, CQRS + MediatR.
 * **Java & Spring Boot:** REST APIs, Microservices.
 
-### 🚀 Frontend Development
+### 🖥️ Frontend Development
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/.NET_ASP.NET_CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -48,15 +46,18 @@ I like collaborations and contribution to open-source.
 * **ASP.NET Core:** JWT Authentication, Onion Architecture, CQRS + MediatR.
 * **Java & Spring Boot:** REST APIs, Microservices.
 
-### 🚀 Cloud and DevOps
+### ☁️  Cloud and DevOps
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/.NET_ASP.NET_CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 * **ASP.NET Core:** JWT Authentication, Onion Architecture, CQRS + MediatR.
 * **Java & Spring Boot:** REST APIs, Microservices.
+
+---
+
 
 ## 📊 GitHub Stats
 
@@ -72,4 +73,3 @@ I like collaborations and contribution to open-source.
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LNjengaTech)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-</div>
