@@ -38,20 +38,19 @@ Always eager to learn and contribute to meaningful projects.
 
 ### 🖥️ Frontend Development
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/.NET_ASP.NET_CORE-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/react-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Tailwind css](https://img.shields.io/badge/tailwind-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Next](https://img.shields.io/badge/next-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Daisy UI](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 
 * **ASP.NET Core:** JWT Authentication, Onion Architecture, CQRS + MediatR.
 * **Java & Spring Boot:** REST APIs, Microservices.
 
 ### ☁️  Cloud and DevOps
 
-![Docker](https://img.shields.io/badge/docker-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-239120?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-512BD4?style=for-the-badge&logo=aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-ED8B00?style=for-the-badge&logo=azure&logoColor=white)
 
 * **ASP.NET Core:** JWT Authentication, Onion Architecture, CQRS + MediatR.
 * **Java & Spring Boot:** REST APIs, Microservices.
