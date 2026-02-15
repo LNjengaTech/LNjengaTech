@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lonnex Njenga
 
-![Typing Banner](https://readme-typing-svg.herokuapp.com/?lines=Software+Developer+🚀;Backend+Specialist+💻;Cybersecurity+Enthusiast;Machine+Learning;&center=false&color=2E86C1&size=28&width=600&height=50)
+![Typing Banner](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Software+Developer;RAG+Applications;Cybersecurity+and+System+Design+Enthusiast;Machine+Learning;&center=false&color=2E86C1&size=28&width=600&height=50)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Profile_Views-1152-blueviolet">
@@ -11,16 +11,15 @@
 ## 📖 About Me
 
 I am software developer passionate about building scalable, secure and smooth applications using modern technologies.
-My current interest includes Python and Machine Learning.
+My current interest includes Python, Machine Learning and RAG Applications.
 Always eager to learn, collaborate and contribute to meaningful projects.
-It all started with curiosity and has since grown into a full-blown passion.
 
 ---
 
 ## 🛠️ Technologies & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,expressjs,nextjs,laravel,git,github,kubernetes,docker,aws,linux,python" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,python,expressjs,nextjs,laravel,git,github,docker,aws,linux" />
   </a>
 </p>
 
@@ -33,9 +32,8 @@ It all started with curiosity and has since grown into a full-blown passion.
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Other Frontend Libraries]
 
 * **Next.js:** Focus on SEO, UI components, and Fast Refresh.
 * **React:** Building modular, component-based UIs with a focus on reusable architecture and performance.
@@ -43,14 +41,12 @@ It all started with curiosity and has since grown into a full-blown passion.
 * **Tailwind CSS:** Building highly responsive, utility-first UIs with a focus on design consistency.
 
 
-### ⚙️ Backend & Fullstack
+### ⚙️ Backend/Fullstack
 
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 
 * **Next.js:** Focus on Serverless functions, API routes, and Database integration (Supabase/MongoDB).
 * **Node.js & Express:** Developing scalable, non-blocking RESTful APIs and middleware architectures.
