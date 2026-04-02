@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lonnex Njenga
+# 👋 Hi, I'm Crystal Rodriguez
 
 ![Typing Banner](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Software+Developer;RAG+Applications;Cybersecurity+and+System+Design+Enthusiast;Machine+Learning;&center=false&color=2E86C1&size=28&width=600&height=50)
 
@@ -10,7 +10,7 @@
 
 ## 📖 About Me
 
-I am software developer passionate about building scalable, secure and smooth applications using modern technologies.
+I am full-stack software engineer passionate about building scalable, secure and smooth applications using modern technologies.
 My current interest includes Python, Machine Learning and RAG Applications.
 Always eager to learn, collaborate and contribute to meaningful projects.
 
@@ -50,7 +50,7 @@ Always eager to learn, collaborate and contribute to meaningful projects.
 
 * **Next.js:** Focus on Serverless functions, API routes, and Database integration (Supabase/MongoDB).
 * **Node.js & Express:** Developing scalable, non-blocking RESTful APIs and middleware architectures.
-* **WebSockets(Socket.io):** Implementing real-time, bi-directional communication for features like live chat or instant notifications.
+<!--* **WebSockets(Socket.io):** Implementing real-time, bi-directional communication for features like live chat or instant notifications.-->
 
 
 ### 🗄️ Databases & BaaS
@@ -101,8 +101,8 @@ Always eager to learn, collaborate and contribute to meaningful projects.
 
 ## 📫 Connect with Me
 
-[![Discord](https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/LonnexTech)
+<!--[![Discord](https://img.shields.io/badge/Discord-1DA1F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/LonnexTech)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LonnexTech)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:njengalonnex340@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:njengalonnex340@gmail.com)-->
 
