@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Crystal Rodriguez
+# 👋 Hi, I'm Lonnex Njenga
 
 ![Typing Banner](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Software+Developer;RAG+Applications;Cybersecurity+and+System+Design+Enthusiast;Machine+Learning;&center=false&color=2E86C1&size=28&width=600&height=50)
 
